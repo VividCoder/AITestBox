@@ -1,0 +1,13 @@
+C:\Projects\AITest\AITest1\bin\x64\Debug\AITest1.dll.config
+C:\Projects\AITest\AITest1\bin\x64\Debug\AITest1.dll
+C:\Projects\AITest\AITest1\bin\x64\Debug\AITest1.pdb
+C:\Projects\AITest\AITest1\bin\x64\Debug\Python.Runtime.dll
+C:\Projects\AITest\AITest1\obj\x64\Debug\AITest1.csproj.CoreCompileInputs.cache
+C:\Projects\AITest\AITest1\obj\x64\Debug\AITest1.csproj.CopyComplete
+C:\Projects\AITest\AITest1\obj\x64\Debug\AITest1.dll
+C:\Projects\AITest\AITest1\obj\x64\Debug\AITest1.pdb
+C:\Projects\AITest\AITest1\obj\x64\Debug\AITest1.csprojAssemblyReference.cache
+C:\Projects\AITest\AITest1\bin\x64\Debug\NeuralNetwork.dll
+C:\Projects\AITest\AITest1\bin\x64\Debug\NLog.dll
+C:\Projects\AITest\AITest1\bin\x64\Debug\NeuralNetwork.pdb
+C:\Projects\AITest\AITest1\bin\x64\Debug\NLog.xml

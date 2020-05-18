@@ -1,0 +1,16 @@
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\ImageEngine1.exe.config
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\ImageEngine1.exe
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\ImageEngine1.pdb
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\AITest1.dll
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\AITest1.pdb
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\AITest1.dll.config
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.csprojAssemblyReference.cache
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.Form1.resources
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.Properties.Resources.resources
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.csproj.GenerateResource.cache
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.csproj.CoreCompileInputs.cache
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.csproj.CopyComplete
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.exe
+C:\Projects\AITest\ImageEngine1\obj\x64\Debug\ImageEngine1.pdb
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\NeuralNetwork.dll
+C:\Projects\AITest\ImageEngine1\bin\x64\Debug\NeuralNetwork.pdb
