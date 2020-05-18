@@ -15,7 +15,7 @@ namespace ImageEngine1
     public partial class Form1 : Form
     {
 
-        public static int ImgW = 320, ImgH = 320;
+        public static int ImgW = 220, ImgH = 220;
         public List<DataImage> Imgs = new List<DataImage>();
 
 
@@ -53,7 +53,7 @@ namespace ImageEngine1
         private void button1_Click(object sender, EventArgs e)
         {
 
-            DT = new DataTrainer(ImgW, ImgH,8, Imgs,5,5);
+            DT = new DataTrainer(ImgW, ImgH,8, Imgs,1,120);
 
 
         }
@@ -68,7 +68,8 @@ namespace ImageEngine1
 
             Controls.Add(testOut);
             testOut.Location = new Point(200, 40);
-            testOut.Size = new Size(ImgW, ImgH);
+            testOut.Size = new Size(ImgW*2, ImgH*2);
+            testOut.BackgroundImageLayout = ImageLayout.Stretch;
         }
 
         private void addImageToolStripMenuItem_Click(object sender, EventArgs e)
